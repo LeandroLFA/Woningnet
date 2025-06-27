@@ -1,0 +1,4 @@
+# This file is used to specify the dependencies for the project.
+selenium==4.11.2
+webdriver-manager==4.0.0
+python-dotenv==1.0.0
